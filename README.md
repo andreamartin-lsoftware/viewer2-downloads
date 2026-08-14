@@ -40,7 +40,7 @@
 
 ## 2. Dashboard e Monitoraggio di Stato
 
-![Schermata Dashboard - Mostra le 4 schede principali dello stato di sistema.](media\dashboard.png)
+![Schermata Dashboard - Mostra le 4 schede principali dello stato di sistema.](media/dashboard.png)
 
 ### 🛠️ Come accedere
 
