@@ -58,7 +58,7 @@ La Dashboard mostra le quattro metriche di stato del **System Status**:
 
 ## 3. Configurazione di Sistema (Settings)
 
-![Schermata Settings - Pannello generale con le impostazioni di connessione, tema e percorsi.](media\settings.png)
+![Schermata Settings - Pannello generale con le impostazioni di connessione, tema e percorsi.](media/settings.png)
 
 ---
 
@@ -111,7 +111,7 @@ Switch ON/OFF per abilitare nel menu laterale i moduli integrati:
 
 ### 3.5 Mappatura Cartelle Parametri (.csv)
 
-![Schermata Selezione Cartella - Finestra per la modifica del percorso di un progetto.](media\projects.png)
+![Schermata Selezione Cartella - Finestra per la modifica del percorso di un progetto.](media/projects.png)
 
 #### 🛠️ Come cambiare percorso ad un progetto (es. Daxx):
 
@@ -141,7 +141,7 @@ Switch ON/OFF per abilitare nel menu laterale i moduli integrati:
 
 ## 4. Editor CSV (Modifica Parametri)
 
-![Schermata Editor CSV - Tabella di editing delle variabili di configurazione.](media\editor.png)
+![Schermata Editor CSV - Tabella di editing delle variabili di configurazione.](media/editor.png)
 
 ### 🛠️ Come accedere
 
@@ -164,7 +164,7 @@ Cliccare sull'icona **Editor CSV** / **Parametri** nella barra laterale.
 
 ## 5. Traffic Monitor (Analisi Bus CAN)
 
-![Schermata Traffic Monitor - Monitoraggio live dei pacchetti CAN.](media\can_monitor.png)
+![Schermata Traffic Monitor - Monitoraggio live dei pacchetti CAN.](media/can_monitor.png)
 
 ### 🛠️ Come accedere
 
@@ -179,7 +179,7 @@ Visualizza la tabella del traffico CAN in tempo reale con le seguenti colonna da
 
 ## 6. Modulo Parrot (CAN Replay & Invia Excel)
 
-![Schermata Parrot - Invia Excel - Interfaccia per la trasmissione dei messaggi PDO caricati da Excel.](media\parrot_excel.png)
+![Schermata Parrot - Invia Excel - Interfaccia per la trasmissione dei messaggi PDO caricati da Excel.](media/parrot_excel.png)
 
 ---
 
@@ -225,7 +225,7 @@ Cliccare sull'icona **XMT** nella barra laterale.
 
 ## 8. Ispezione e Monitoraggio Registri PLC
 
-![Schermata Ispezione Registri PLC - Tabella per la lettura e il polling continuativo delle variabili WORDP / MAPLOGICI.](media\param.png)
+![Schermata Ispezione Registri PLC - Tabella per la lettura e il polling continuativo delle variabili WORDP / MAPLOGICI.](media/param.png)
 
 ### 🛠️ Come accedere
 
