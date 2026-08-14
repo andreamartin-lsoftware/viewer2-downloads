@@ -252,12 +252,7 @@ Cliccare su una delle voci abilitate nella barra laterale (es. `WORDP`, `DWORDP`
 
 ## 9. Installazione certificati
 
-<video controls>
-  <source src="installazione_certificati.mp4" type="video/mp4">
-</video>
-<video src="installazione_certificati.mp4" controls width="100%">
-  Il tuo browser non supporta il tag video.
-</video>
+<video src="./installazione_certificati.mp4" controls width="100%"></video>
 
 ## 10. Aggiornamento
 
