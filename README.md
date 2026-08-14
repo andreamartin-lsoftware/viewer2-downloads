@@ -7,7 +7,7 @@
 2. [Dashboard e Monitoraggio di Stato]()
 3. [Configurazione di Sistema (Settings)]()
 * [3.1 Personalizzazione Interfaccia Grafica]()
-* [3.2 Configurazione Connessione ()
+* [3.2 Configurazione Connessione]()
 * [3.3 Gestione Log, Report e Diagnostica]()
 * [3.4 Moduli Aggiuntivi e Applicazioni Web]()
 * [3.5 Mappatura Cartelle Parametri (.csv)]()
