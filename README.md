@@ -252,7 +252,9 @@ Cliccare su una delle voci abilitate nella barra laterale (es. `WORDP`, `DWORDP`
 
 ## 9. Installazione certificati
 
-<video src="./installazione_certificati.mp4" controls width="100%"></video>
+<video src="https://raw.githubusercontent.com/andreamartin-lsoftware/viewer2-downloads/main/installazione_certificati.mp4" controls width="100%">
+  Il tuo browser non supporta il tag video.
+</video>
 
 ## 10. Aggiornamento
 
